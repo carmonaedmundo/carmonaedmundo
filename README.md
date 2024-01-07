@@ -22,6 +22,7 @@ My expertise in cloud computing is exemplified through my work with Microsoft Az
 
 For advanced analytics and collaborative data science, Databricks has been my go-to platform. Explore my Databricks projects to witness how I harness the power of this platform for streamlined and collaborative big data processing and machine learning.
 
+<!-- Remamber to swet your proyjects here
 ## Projects
 
 Feel free to explore some of my featured projects below:
@@ -34,9 +35,9 @@ Feel free to explore some of my featured projects below:
 
 - [Project 3: Title](link-to-repository)
   Description of Project 3.
-
+ -->
 ## Contact
 
-Connect with me on [LinkedIn](your-linkedin-profile) | Follow me on [Twitter](your-twitter-profile)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/edmundocarmona/) 
 
 Looking forward to collaborating and sharing insights within the vibrant GitHub community!
