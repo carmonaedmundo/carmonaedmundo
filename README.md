@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-
+![Banner](https://miro.medium.com/v2/resize:fit:1358/1*i2NLtvNP-9XeaNW1AJk7Bw.png)
 ## Bio
 
 I am a professional data enthusiast with over 16 years of experience working in data technology implementations. I have had the privilege of contributing to the success of two of the big four firms and have diverse experience across industries including retail, insurance, and telecommunications.
